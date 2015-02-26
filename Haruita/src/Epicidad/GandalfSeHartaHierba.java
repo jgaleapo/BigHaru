@@ -8,7 +8,7 @@ public class GandalfSeHartaHierba implements LaInterfazdeGandalf{
 		if (hierba > pasos)
 			System.out.println("Gandalf sa jartao hierba");
 		else
-			System.out.println("Se la robó Radagast");
+			System.out.println("Se la robó Radagast, pero de mentira, este mago es muy majo");
 	}
 
 	@Override
